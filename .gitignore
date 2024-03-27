@@ -1,0 +1,17 @@
+/.idea
+/.venv
+/data
+/.ipynb_checkpoints
+/cache
+/cache_metadata
+/temp
+/tiffs
+/jpgs
+/out
+/log
+/jobs
+*.pyc
+*.zip
+*.tar.gz
+.env
+.DS_Store
